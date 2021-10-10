@@ -2,3 +2,4 @@ venv
 logs
 dataset
 .ipynb_checkpoints
+.idea
